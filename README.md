@@ -1,5 +1,6 @@
 # AbsenteesimRegressionModel
- A case study with logistic regression model
+ A case study with logistic regression model for absence in work basing on data such as:
+ travel costs, day of the week,  distance to work, and more
 
 Absenteeism_data.csv - data for model training and testing
 Absenteeism_new_data.csv - input data for sample.py 
