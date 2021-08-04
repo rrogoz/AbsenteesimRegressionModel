@@ -1,4 +1,4 @@
-# AbseteesimRegressionModel
+# AbsenteesimRegressionModel
  A case study with logistic regression model
 
 Absenteeism_data.csv - data for model training and testing
